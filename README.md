@@ -6,6 +6,6 @@ It is a very simple problem to solve but main issue the time complexity. As the 
 So, Here I tried to solve this with O(n) complexity
 # This is the not optimized version
 ![not_optimized](https://user-images.githubusercontent.com/68915904/117998970-34df0800-b366-11eb-903e-b25fbf5620cc.png)
-# This is the optimizes version with O(n) comlexcity
+# This is the optimized version with O(n) comlexcity
 ![optimized](https://user-images.githubusercontent.com/68915904/117999208-6d7ee180-b366-11eb-9857-6c442bcf6d33.png)
 
